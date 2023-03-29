@@ -4,8 +4,7 @@
 [![Welcome](https://img.shields.io/badge/NSBM%20Green%20University-Welcome-brightgreen)](#) 
 [![Welcome](https://img.shields.io/badge/Human%20Computer%20Interaction20I-Final%20Project-orange)](#)
 
-
-*** APictures UI Design Project***
+***APictures Warehouse Automaton UI/UX Design Project***
 
 
 ## Project Description
