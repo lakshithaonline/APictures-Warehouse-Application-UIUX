@@ -31,7 +31,7 @@ The APictures UI Design Project is built using the following technologies:
 
 Here are some screenshots of the APictures UI Design Project:
 
-![Screenshot 1](/Screenshot/Header-Cloudpassport.png)
+![Screenshot 1](/Screenshots/apictures-ui.png)
 
 ## Figma Design
 
